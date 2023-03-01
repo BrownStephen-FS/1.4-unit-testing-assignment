@@ -1,0 +1,20 @@
+{
+  "name": "1.4-unit-testing-assignment",
+  "version": "1.0.0",
+  "description": "app for unit test",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "keywords": [
+    "NodeJS",
+    "unit",
+    "test"
+  ],
+  "author": "Stephen Brown",
+  "license": "ISC",
+  "dependencies": {
+    "coverage": "^0.4.1",
+    "jest": "^29.4.3"
+  }
+}
